@@ -1,0 +1,24 @@
+.main-container {
+    min-width: 320px;
+    min-height: 100vh;
+    background-image: linear-gradient(135deg, #02aab0, #00cdac);
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
+}
+.mark {
+    background: linear-gradient(180deg,rgba(255, 255, 255, 0) 50%, turquoise 50%);
+}
+.pre{
+    font-size: 21px;
+}
+.footer{
+
+    background-color: turquoise;  
+}
+.nav{
+    background-image: linear-gradient(135deg, #02aab0, #00cdac);
+}
+
+ .nav a{
+    color: inherit; 
+    text-decoration: none;
+ }
